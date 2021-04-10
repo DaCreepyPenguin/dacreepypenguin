@@ -3,7 +3,7 @@
 I'm Arthur, also known as DaCreepyPenguin. Im a first year diploma student studing computer science in the UK.
 
 ### My skills
-I mostly write in Python and Javascript however I am confident in c# and I am learning Java and C++
+I mostly write in Python and Javascript however I am confident in c# (even though I haven't used it since my windows machine bricked) and I am learning Java and C++
 <br>
 I started programming as a hobby around 6 or 7 years ago with small bits of javascript (along side html and css) and python in the early ages of Secondary School however I only started programming with the thought of a career in the last 4 or 5 years, heavily inspired by my brother.
 <br>
