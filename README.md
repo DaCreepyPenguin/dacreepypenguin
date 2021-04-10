@@ -3,12 +3,12 @@
 I'm Arthur, also known as DaCreepyPenguin. Im a first year diploma student studing computer science in the UK.
 
 ## Me
-I started programming as a hobby around 6 or 7 years ago with small bits of javascript (along side html and css) and python in the early ages of Secondary School however I only started programming with the thought of a career in the last 4 or 5 years, heavily inspired by my brother.
+I started programming as a hobby around 6 or 7 years ago with small bits of javascript (along side html and css) and python in the early ages of Secondary School, however I only started programming with the thought of a career in the last 4 or 5 years, heavily inspired by my brother.
 <br><br>
-Most of my time goes into developing games, most of which never see the light of day but some can be found on my itch.io <b>(https://dcpenguin.itch.io/)</b> page. 
+Most of my time goes into developing games, most of which never see the light of day, but some can be found on my itch.io <b>(https://dcpenguin.itch.io/)</b> page. 
 
 ### Languages
-I mostly write in Python and Javascript however I am confident in c# and I am learning Java and C++.
+I mostly write in Python and Javascript, however I am confident in c# and I am learning Java and C++.
 <br>I am also capable in HTML and CSS<br>
 ### Tools
 I use the GODOT engine with GDScript mostly but sometimes I use Unity and I have past experience with Unreal4. I find its very dependent on the type of game I am making.
