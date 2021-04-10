@@ -35,6 +35,6 @@ I am looking for a career in computer science after I have completed my studies 
 
 Currently I have no easy way to be reached other than issues on this repo although I will soon have a portfolio page that will serve as a hub for all my work
 <br><br>
-So thats about it, thank you for reading this through and I hope to see you around :)
+So that's about it, thank you for reading this through and I hope to see you around :)
 <br>
 DaCreepyPenguin
