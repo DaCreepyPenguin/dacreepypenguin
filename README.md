@@ -7,7 +7,7 @@ I mostly write in Python and Javascript however I am confident in c# (even thoug
 <br>
 I started programming as a hobby around 6 or 7 years ago with small bits of javascript (along side html and css) and python in the early ages of Secondary School however I only started programming with the thought of a career in the last 4 or 5 years, heavily inspired by my brother.
 <br>
-Most of my time goes into developing games, most of which never see the light of day but some can be found on my itch.io <b>(https://dcpenguin.itch.io/)</b> page
+Most of my time goes into developing games, most of which never see the light of day but some can be found on my itch.io <b>(https://dcpenguin.itch.io/)</b> page. For this, I use mostly the GODOT engine with GDScript but sometimes I use Unity and I have past experience with Unreal4. I find its very dependent on the type of game I am making.
 
 
 ### What am I doing?
