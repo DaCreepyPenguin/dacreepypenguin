@@ -8,8 +8,19 @@ I started programming as a hobby around 6 or 7 years ago with small bits of java
 Most of my time goes into developing games, most of which never see the light of day, but some can be found on my itch.io <b>(https://dcpenguin.itch.io/)</b> page. 
 
 ### Languages
-I mostly write in Python and Javascript, however I am confident in c# and I am learning Java and C++.
-<br>I am also capable in HTML and CSS<br>
+<blockquote>
+  <ul>
+    <li>Python</li>
+    <li>Javascript (and Node)</li>
+    <li>HTML/CSS</li>
+    <li>C#</li>
+    <br>
+    <p>Learning:</p>
+    <li>Java</li>
+    <li>C++</li>
+  </ul>
+</blockquote>
+
 ### Tools
 I use the GODOT engine with GDScript mostly but sometimes I use Unity and I have past experience with Unreal4. I find its very dependent on the type of game I am making.
 <br><br>
