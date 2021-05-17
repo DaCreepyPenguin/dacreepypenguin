@@ -3,7 +3,7 @@
 I'm Arthur, also known as DaCreepyPenguin. I'm a first year diploma student studying computer science in the UK.
 
 ## Me
-I started programming as a hobby around 6 or 7 years ago with small bits of javascript (along side html and css) and python in the early ages of Secondary School, however I only started programming with the thought of a career in the last 4 or 5 years, heavily inspired by my brother.
+I started programming as a hobby around 6 or 7 years ago with small bits of Javascript (along side HTML and CSS) and Python in the early ages of secondary school, however I only started programming with the thought of a career in the last 4 or 5 years, heavily inspired by my brother.
 <br><br>
 Most of my time goes into developing games, most of which never see the light of day, but some can be found on my itch.io <b>(https://dcpenguin.itch.io/)</b> page. 
 ### Languages
