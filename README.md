@@ -9,7 +9,7 @@ Most of my time goes into developing games, most of which never see the light of
 ### Languages
 <ul>
   <li>Python</li>
-  <li>Javascript (and Node)</li>
+  <li>Javascript</li>
   <li>HTML/CSS</li>
   <li>C#</li>
   <br>
