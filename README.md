@@ -1,6 +1,6 @@
 # Hi there traveler!
 
-I'm Arthur, also known as DaCreepyPenguin. I'm a first year diploma student studying computer science in the UK.
+I'm Arthur, also known as DaCreepyPenguin. I'm a second year diploma student studying computer science in the UK.
 
 ## Me
 I started programming as a hobby around 6 or 7 years ago with small bits of Javascript (along side HTML and CSS) and Python in the early ages of secondary school, however I only started programming with the thought of a career in the last 4 or 5 years, heavily inspired by my brother.
