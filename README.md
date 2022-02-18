@@ -1,6 +1,6 @@
 ![DaCreepyPenguin](https://github-readme-stats.vercel.app/api?username=dacreepypenguin&count_private=true&show_icons=true&theme=github_dark)
 
-# Hi there traveler!
+# Hi
 
 I'm Arthur, also known as DaCreepyPenguin. I'm a second year diploma student studying computer science in the UK.
 
@@ -41,9 +41,6 @@ I am confident with Windows and GNU Linux distros (I mostly use Ubuntu for my pr
 ### My future
 I am looking for a career in computer science after I have completed my studies in the next few years however I am also looking for work during that period.
 
-### How to reach me
-
-Currently I have no easy way to be reached other than issues on this repo although I will soon have a portfolio page that will serve as a hub for all my work
 <br><br>
 So that's about it, thank you for reading this through and I hope to see you around :)
 <br>
