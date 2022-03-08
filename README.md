@@ -1,5 +1,4 @@
-![DaCreepyPenguin](https://github-readme-stats.vercel.app/api?username=dacreepypenguin&count_private=true&show_icons=true&theme=github_dark)
-
+[![DaCreepyPenguin](https://github-readme-stats.vercel.app/api?username=dacreepypenguin&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 # Hi
 
 I'm Arthur, also known as DaCreepyPenguin. I'm a second year diploma student studying computer science in the UK.
