@@ -9,7 +9,7 @@ Hello There! My name is DaCreepyPenguin, I am a computer science student in the 
 * 🗺️󠁧󠁢󠁥󠁮󠁧  I'm based in Wiltshire, UK
 * 🖥️  See my portfolio at [my website](http://penguinstudios.tech)
 * 📫  You can contact me at [dcp@penguinstudios.tech](mailto:dcp@penguinstudios.tech)
-* ⚙️  I'm currently working on [my website as I have no time for anything else](http://penguinstudios.tech)
+* ⚙️  I'm currently working on [my website](http://penguinstudios.tech) as I have no time for anything else
 * 🎓  I'm learning expand my knowledge of new languages and frameworks as well as reinforcing knowledge I already have
 
 <a href="https://www.twitter.com/dcreepy_penguin" target="_blank" rel="noreferrer"><img
