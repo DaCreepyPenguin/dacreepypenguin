@@ -6,11 +6,11 @@ Student Programmer
 
 Hello There! My name is DaCreepyPenguin, I am a computer science student in the UK and this is my site. I have been interested in programming for a very long time now however at first I was focusing on the performing arts, now I spend a lot of my time working on computers and have found myself studying computer science at college with performing as just a hobby. I hope to one day join the military and maintain programming as a fun side thing and never let it become a boring job.
 
-* 🌍  I'm based in Wiltshire, UK
+* 🗺️󠁧󠁢󠁥󠁮󠁧  I'm based in Wiltshire, UK
 * 🖥️  See my portfolio at [my website](http://penguinstudios.tech)
-* ✉️  You can contact me at [dcp@penguinstudios.tech](mailto:dcp@penguinstudios.tech)
-* 🚀  I'm currently working on [my website as I have no time for anything else](http://penguinstudios.tech)
-* 🧠  I'm learning expand my knowledge of new languages and frameworks as well as reinforcing knowledge I already have
+* 📫  You can contact me at [dcp@penguinstudios.tech](mailto:dcp@penguinstudios.tech)
+* ⚙️  I'm currently working on [my website as I have no time for anything else](http://penguinstudios.tech)
+* 🎓  I'm learning expand my knowledge of new languages and frameworks as well as reinforcing knowledge I already have
 
 <a href="https://www.twitter.com/dcreepy_penguin" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/dcreepy_penguin?logo=twitter&style=for-the-badge&color=a855f7&labelColor=0f172a"
